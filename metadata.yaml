@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1632
     wikipedia: http://en.wikipedia.org/wiki/Clarence_Young
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42461#The-Motor-Boysor-Chums-Through-Thick-and-Thin
 gutenberg_issued: '2013-04-03'
 gutenberg_type: Text
 identifiers:
